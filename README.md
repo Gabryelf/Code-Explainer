@@ -1,9 +1,10 @@
 # Code-Explainer
 uvicorn / fastapi / huggingface
 
-Code-Explainer/video/bandicam 2025-11-14 19-34-32-859.mp4
-
 # 🤖 Code Explainer & Similar Code Finder
+
+![video](Code-Explainer/video/bandicam 2025-11-14 19-34-32-859.mp4)
+
 
 **Умный анализатор кода с поиском похожих решений из базы репозиториев**
 
