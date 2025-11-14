@@ -47,7 +47,7 @@ Code Explainer - это интеллектуальная система для �
 
 1. **Клонируйте репозиторий**:
 ```bash
-git clone https://github.com/your-username/code-explainer.git
+git clone https://github.com/Gabryelf/code-explainer.git
 cd code-explainer
 Установите зависимости:
 
