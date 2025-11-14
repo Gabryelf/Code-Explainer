@@ -3,8 +3,10 @@ uvicorn / fastapi / huggingface
 
 # 🤖 Code Explainer & Similar Code Finder
 
-![video](Code-Explainer/video/bandicam 2025-11-14 19-34-32-859.mp4)
 
+<video width="800" controls>
+  <source src="video/bandicam 2025-11-14 19-34-32-859.mp4" type="video/mp4">
+</video>
 
 **Умный анализатор кода с поиском похожих решений из базы репозиториев**
 
