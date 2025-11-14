@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Explainer</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🤖 Code Explainer</h1>
+            <p>Paste your code and get a detailed explanation</p>
+        </header>
+
+        <main>
+            <div class="input-section">
+                <div class="language-selector">
+                    <label for="language">Programming Language:</label>
+                    <select id="language">
+                        <option value="auto">Auto-detect</option>
+                        <option value="python">Python</option>
+                        <option value="javascript">JavaScript</option>
+                        <option value="java">Java</option>
+                        <option value="cpp">C++</option>
+                        <option value="c">C</option>
+                        <option value="csharp">C#</option>
+                        <option value="php">PHP</option>
+                        <option value="ruby">Ruby</option>
+                        <option value="go">Go</option>
+                        <option value="rust">Rust</option>
+                        <option value="swift">Swift</option>
+                        <option value="kotlin">Kotlin</option>
+                    </select>
+                </div>
+
+                <textarea
+                    id="codeInput"
+                    placeholder="Paste your code here..."
+                    rows="15"
+                ></textarea>
+
+                <button id="explainBtn" onclick="explainCode()">
+                    Explain Code
+                </button>
+            </div>
+
+            <div class="output-section">
+                <h3>Explanation:</h3>
+                <div id="explanationOutput" class="explanation-box">
+                    <p class="placeholder">Your explanation will appear here...</p>
+                </div>
+
+                <div id="loading" class="loading hidden">
+                    <div class="spinner"></div>
+                    <p>Analyzing your code...</p>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>Powered by AI • Built with FastAPI</p>
+        </footer>
+    </div>
+
+    <script src="/static/js/script.js"></script>
+</body>
+</html>

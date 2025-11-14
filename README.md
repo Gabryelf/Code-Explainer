@@ -1,2 +1,2 @@
 # Code-Explainer
-uvicorn / fastapi / openai
+uvicorn / fastapi / ya_gpt
