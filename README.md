@@ -4,8 +4,10 @@ uvicorn / fastapi / huggingface
 # 🤖 Code Explainer & Similar Code Finder
 
 
-<video width="800" controls>
+<video width="800" controls poster="assets/video-poster.jpg">
   <source src="video/bandicam 2025-11-14 19-34-32-859.mp4" type="video/mp4">
+  <source src="assets/demo.webm" type="video/webm">
+  Ваш браузер не поддерживает видео. [Скачайте видео](assets/demo.mp4)
 </video>
 
 **Умный анализатор кода с поиском похожих решений из базы репозиториев**
