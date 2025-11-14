@@ -2,7 +2,7 @@ from fastapi import FastAPI, Request, HTTPException
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from fastapi.middleware.cors import CORSMiddleware
-from services.ai_hf_service import CodeExplainerAI
+from app.ai_hf_service import CodeExplainerAI
 import logging
 import os
 
