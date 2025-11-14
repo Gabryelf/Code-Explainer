@@ -3,12 +3,8 @@ uvicorn / fastapi / huggingface
 
 # 🤖 Code Explainer & Similar Code Finder
 
-
-<video width="800" controls poster="assets/video-poster.jpg">
-  <source src="video/bandicam 2025-11-14 19-34-32-859.mp4" type="video/mp4">
-  <source src="assets/demo.webm" type="video/webm">
-  Ваш браузер не поддерживает видео. [Скачайте видео](assets/demo.mp4)
-</video>
+### ⚡ Быстрая демонстрация
+![Быстрая демонстрация]([https://via.placeholder.com/800x450?text=Demo+GIF+Placeholder](https://github.com/Gabryelf/Code-Explainer/blob/main/video/bandicam%202025-11-14%2019-34-32-859.mp4))
 
 **Умный анализатор кода с поиском похожих решений из базы репозиториев**
 
