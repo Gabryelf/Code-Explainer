@@ -3,9 +3,6 @@ uvicorn / fastapi / huggingface
 
 # 🤖 Code Explainer & Similar Code Finder
 
-### ⚡ Быстрая демонстрация
-![Быстрая демонстрация]([https://via.placeholder.com/800x450?text=Demo+GIF+Placeholder](https://github.com/Gabryelf/Code-Explainer/blob/main/video/bandicam%202025-11-14%2019-34-32-859.mp4))
-
 **Умный анализатор кода с поиском похожих решений из базы репозиториев**
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-009688?logo=fastapi)](https://fastapi.tiangolo.com)
